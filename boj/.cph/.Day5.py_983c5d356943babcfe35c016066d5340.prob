@@ -1,0 +1,1 @@
+{"name":"Local: Day5","url":"/Users/soojin/algorithms/99club/Day5.py","tests":[{"id":1737163342194,"input":"5\n-2 4 -99 -1 98","output":"-99 98"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/soojin/algorithms/99club/Day5.py","group":"local","local":true}
