@@ -1,2 +1,19 @@
-# algorithm-practice-log
-Problem-solving repository for Baekjoon, Programmers, LeetCode, and more.
+## Algorithm Practice Log
+
+이 레포는 코딩테스트 문제를 단순히 저장하는 목적이 아니라,  
+문제를 어떤 사고 과정으로 접근하고 해결했는지를 정리하기 위한 공간입니다.
+
+풀이 코드뿐만 아니라, 문제 유형별 접근 방식과  
+면접에서 설명할 수 있는 대표 문제들을 중심으로 관리합니다.
+
+### Repository Structure
+
+- `problems/`  
+  풀이한 코딩테스트 문제 코드 보관
+
+- `patterns/`  
+  자주 등장하는 문제 유형과 접근 방법 정리
+
+- `featured/`  
+  문제 선택 이유, 풀이 전략, 시행착오 등을 함께 정리한 대표 문제
+
